@@ -1,0 +1,17 @@
+#TAG
+#Landing page
+https://www.sherwin-williams.com
+https://www.sherwin-williams.com/en-us/color
+
+#Punchout
+https://punchout.sherwin-williams.com
+
+#Prism
+https://prism-api.sherwin-williams.com/healthcheck
+https://prism.sherwin-williams.com/embed.js
+
+#Valspar(AEM Site)
+https://www.valspar.com
+
+#CIAM
+https://socialize.sherwin-williams.com
